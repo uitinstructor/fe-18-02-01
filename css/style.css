@@ -1,0 +1,60 @@
+body {
+  background-image: url('https://image.freepik.com/free-vector/abstract-background-with-a-3d-pattern_1319-68.jpg');
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 900px;
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  margin: 0 auto;
+  border: 10px dashed #000000;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #dddddd;
+  padding: 20px;
+  background-color: #fff;
+}
+
+
+.main-heading {
+  font-size: 60px;
+  font-family: Arial, sans-serif;
+  color: rgba(19, 91, 185, 0.3);
+  font-weight: 100;
+  text-align: center;
+  background-color: gold;
+  margin-top: 0;
+  margin-bottom: 50px;
+  padding: 30px 20px 40px 20px;
+
+}
+
+.sub-heading {
+  font-size: 30px;
+  color: rgba(23, 21, 160, 0.3);
+  text-align: center;
+  background-color: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.post-title {
+  font-size: 20px;
+  color: rgba(13, 158, 104, 0.3);
+  background-color: pink;
+  margin-top: 0;
+  margin-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+img {
+  width: 100%;
+}
